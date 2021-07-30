@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\bin\Debug\serial몬_UI.exe.config
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\bin\Debug\serial몬_UI.exe
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\bin\Debug\serial몬_UI.pdb
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\obj\Debug\serial몬_UI.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\obj\Debug\serial몬_UI.Form1.resources
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\obj\Debug\serial몬_UI.Properties.Resources.resources
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\obj\Debug\serial몬_UI.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\obj\Debug\serial몬_UI.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\obj\Debug\serial몬_UI.exe
+C:\Users\USER\source\repos\serial몬_UI\serial몬_UI\obj\Debug\serial몬_UI.pdb
