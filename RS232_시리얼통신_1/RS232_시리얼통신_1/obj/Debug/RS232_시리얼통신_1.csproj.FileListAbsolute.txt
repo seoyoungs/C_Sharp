@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\bin\Debug\RS232_시리얼통신_1.exe.config
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\bin\Debug\RS232_시리얼통신_1.exe
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\bin\Debug\RS232_시리얼통신_1.pdb
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\obj\Debug\RS232_시리얼통신_1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\obj\Debug\RS232_시리얼통신_1.Form1.resources
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\obj\Debug\RS232_시리얼통신_1.Properties.Resources.resources
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\obj\Debug\RS232_시리얼통신_1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\obj\Debug\RS232_시리얼통신_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\obj\Debug\RS232_시리얼통신_1.exe
+C:\Users\USER\source\repos\RS232_시리얼통신_1\RS232_시리얼통신_1\obj\Debug\RS232_시리얼통신_1.pdb
